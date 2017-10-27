@@ -8,6 +8,7 @@ To use this project use have to create database in MySql to store and retrieve d
 like this:
 
 DATABASE name:atm
+<\n>
 table name : details
 mysql root name:root
 pass:root(in my case u can give ur own)
