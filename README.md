@@ -2,10 +2,10 @@
 In this Project I have demonstrate Working Of Atm.All Transactions like Deposit,Withdraw,Balance transfer,Change pin,Check Balance and One ADMIN PANEL to ADD Customers and To View How Many Customers Exists.This is v1 I hope You Will Like It.THANK YOU.
 
 
-***************NOTE****************
+## NOTE
 To use this project use have to create database in MySql to store and retrieve data.
 
-like this:
+## STEPS TO USE THE PROJECT
 
 DATABASE name:atm
 
